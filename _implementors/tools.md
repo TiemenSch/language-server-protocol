@@ -37,4 +37,5 @@ index: 2
 | [Cloud Studio](https://studio.dev.tencent.com/) | CODING |  |
 | [Spyder](http://spyder-ide.org) | [Spyder Dev Team](https://github.com/spyder-ide) | [spyder](https://github.com/spyder-ide/spyder) | 
 | [MS Paint IDE](https://ms-paint-i.de/) | [RubbaBoy](https://github.com/RubbaBoy) | [MS Paint IDE](https://github.com/MSPaintIDE/MSPaintIDE) |
+| [CodeMirror](https://codemirror.net/) | [wylieconlon](https://github.com/wylieconlon) | [lsp-editor-adapter](https://github.com/wylieconlon/lsp-editor-adapter) |
 {: .table .table-bordered .table-responsive}
